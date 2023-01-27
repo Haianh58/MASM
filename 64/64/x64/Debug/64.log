@@ -1,0 +1,5 @@
+﻿  Assembling simple_calculator.asm...
+simple_calculator.asm(19): warning A4014: instructions and initialized data not supported in BSS segments
+simple_calculator.asm(20): warning A4014: instructions and initialized data not supported in BSS segments
+simple_calculator.asm(22): warning A4014: instructions and initialized data not supported in BSS segments
+  64.vcxproj -> E:\2022\re\64\x64\Debug\64.exe
